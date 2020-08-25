@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ipfs-eth-fileupload/static/css/main.3b740b0c.chunk.css",
+    "main.js": "/ipfs-eth-fileupload/static/js/main.b457c7a9.chunk.js",
+    "main.js.map": "/ipfs-eth-fileupload/static/js/main.b457c7a9.chunk.js.map",
+    "runtime-main.js": "/ipfs-eth-fileupload/static/js/runtime-main.280ab5d7.js",
+    "runtime-main.js.map": "/ipfs-eth-fileupload/static/js/runtime-main.280ab5d7.js.map",
+    "static/css/2.11829350.chunk.css": "/ipfs-eth-fileupload/static/css/2.11829350.chunk.css",
+    "static/js/2.83dfd191.chunk.js": "/ipfs-eth-fileupload/static/js/2.83dfd191.chunk.js",
+    "static/js/2.83dfd191.chunk.js.map": "/ipfs-eth-fileupload/static/js/2.83dfd191.chunk.js.map",
+    "index.html": "/ipfs-eth-fileupload/index.html",
+    "precache-manifest.ad67f6447491a0addb8ad87937531834.js": "/ipfs-eth-fileupload/precache-manifest.ad67f6447491a0addb8ad87937531834.js",
+    "service-worker.js": "/ipfs-eth-fileupload/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/ipfs-eth-fileupload/static/css/2.11829350.chunk.css.map",
+    "static/css/main.3b740b0c.chunk.css.map": "/ipfs-eth-fileupload/static/css/main.3b740b0c.chunk.css.map",
+    "static/js/2.83dfd191.chunk.js.LICENSE.txt": "/ipfs-eth-fileupload/static/js/2.83dfd191.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.280ab5d7.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.83dfd191.chunk.js",
+    "static/css/main.3b740b0c.chunk.css",
+    "static/js/main.b457c7a9.chunk.js"
+  ]
+}
